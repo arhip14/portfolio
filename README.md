@@ -3,6 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhip14" alt="arhip14" /></a> </p>
 
+- 🌱 I’m currently learning **JS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/arhip14?tab=repositories](https://github.com/arhip14?tab=repositories)
+
+- 📫 How to reach me **kruvdyk1503@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aarkhyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarkhyp" height="30" width="40" /></a>
